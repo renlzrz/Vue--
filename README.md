@@ -1,21 +1,10 @@
-# imoocmall
+# vue2.0+node.js小米项目
+B站视频（https://www.bilibili.com/video/av33561526/?p=26）
 
-> Imooc Mall 
 
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## 商品列表组件拆分
+  将counter navbread navfooter navheader 拆分成组件
+  将counter navbread navfooter navheader 挂载上goodslist
+## 商品列表数据渲染
+## 图片懒加载
+  v-lazy
