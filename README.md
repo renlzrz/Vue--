@@ -1,5 +1,5 @@
 # vue2.0+node.js小米项目
-B站视频（https://www.bilibili.com/video/av33561526/?p=26）
+B站视频（https://www.bilibili.com/video/av33561526/?p=2）
 
 
 ## 商品列表组件拆分
@@ -7,4 +7,5 @@ B站视频（https://www.bilibili.com/video/av33561526/?p=26）
   将counter navbread navfooter navheader 挂载上goodslist
 ## 商品列表数据渲染
 ## 图片懒加载
+  插件vue-lazyload
   v-lazy

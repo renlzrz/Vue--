@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70e02ca3-7ba1-41d6-8e40-3947d014c3f1" name="Default" comment="" />
+    <list default="true" id="70e02ca3-7ba1-41d6-8e40-3947d014c3f1" name="Default" comment="Default">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <ignored path="ImoocMall.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -11,22 +14,31 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CreatePatchCommitExecutor">
-    <option name="PATCH_PATH" value="" />
-  </component>
   <component name="FavoritesManager">
     <favorites_list name="ImoocMall" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="GoodsList.vue" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GoodsList.vue" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/views/GoodsList.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
+            <state relative-caret-position="386">
               <caret line="56" selection-start-line="56" selection-end-line="56" />
               <folding>
                 <element signature="e#1706#1739#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="19">
+                <caret line="1" column="51" selection-start-line="1" selection-start-column="51" selection-end-line="1" selection-end-column="51" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -40,11 +52,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="19" column="30" lean-forward="true" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+            <state relative-caret-position="190">
+              <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
               <folding>
                 <element signature="e#140#161#0" expanded="true" />
                 <element signature="e#766#1008#0" />
@@ -65,19 +77,12 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>nav-bread</find>
-      <find>filterBy</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/server/index.html" />
         <option value="$PROJECT_DIR$/server/Server.js" />
         <option value="$PROJECT_DIR$/server/login.html" />
         <option value="$PROJECT_DIR$/server/client.js" />
@@ -128,6 +133,7 @@
         <option value="$PROJECT_DIR$/build/dev-server.js" />
         <option value="$PROJECT_DIR$/mock/goods.json" />
         <option value="$PROJECT_DIR$/src/views/GoodsList.vue" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -138,12 +144,6 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="385" />
-    <option name="y" value="157" />
-    <option name="width" value="1480" />
-    <option name="height" value="773" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -163,12 +163,12 @@
             <path>
               <item name="ImoocMall" type="b2602c69:ProjectViewProjectNode" />
               <item name="vue-2" type="462c0819:PsiDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ImoocMall" type="b2602c69:ProjectViewProjectNode" />
               <item name="vue-2" type="462c0819:PsiDirectoryNode" />
-              <item name="mock" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ImoocMall" type="b2602c69:ProjectViewProjectNode" />
@@ -204,47 +204,6 @@
         </subPane>
       </pane>
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="editor.config.accepted" value="true" />
-    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
-    <property name="js.buildTools.grunt.grunt-cli.package" value="" />
-    <property name="js.buildTools.grunt.node_interpreter" value="/usr/local/bin/node" />
-    <property name="js.buildTools.gulp.gulp_package_dir" value="/usr/local/lib/node_modules/gulp" />
-    <property name="js.buildTools.gulp.node_interpreter" value="/usr/local/bin/node" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.standard" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.standard" value="project" />
-    <property name="node.js.selected.package.eslint" value="E:\vue-2\node_modules\eslint" />
-    <property name="node.js.selected.package.standard" value="E:\vue-2\node_modules\eslint" />
-    <property name="nodejs.mocha.mocha_node_package_dir" value="" />
-    <property name="nodejs.mocha.node_interpreter_path" value="/usr/local/bin/node" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/resource/views/css" />
-      <recent name="$PROJECT_DIR$/resource/views" />
-      <recent name="$PROJECT_DIR$/resource" />
-      <recent name="$PROJECT_DIR$/static" />
-      <recent name="$PROJECT_DIR$/src/assets/css" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/resource/views/css" />
-      <recent name="$PROJECT_DIR$/resource/views" />
-      <recent name="$PROJECT_DIR$/mock" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/src/views" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -334,18 +293,27 @@
       <option name="presentableId" value="Default" />
       <updated>1494739158304</updated>
       <workItem from="1540816902434" duration="3765000" />
-      <workItem from="1540865821313" duration="9944000" />
+      <workItem from="1540865821313" duration="10761000" />
+    </task>
+    <task id="LOCAL-00001" summary="Default">
+      <created>1540889220180</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1540889220180</updated>
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13709000" />
+    <option name="totallyTimeSpent" value="11000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="385" y="157" width="1480" height="773" extended-state="0" />
+    <frame x="330" y="196" width="1480" height="773" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="调试" order="7" />
+      <window_info anchor="bottom" id="Messages" order="7" visible="true" weight="0.329653" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -356,9 +324,9 @@
       <window_info id="npm" order="0" sideWeight="0.50512445" side_tool="true" weight="0.16203336" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32892805" />
       <window_info anchor="right" id="调色板" order="3" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49722" visible="true" weight="0.3564669" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49722" weight="0.3564669" />
       <window_info id="Capture Tool" order="2" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49487555" visible="true" weight="0.15774648" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49487555" visible="true" weight="0.15774648" />
       <window_info id="设计器" order="2" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
@@ -367,7 +335,6 @@
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39941263" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32970452" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -411,50 +378,14 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="Vcs.Log.UiProperties">
-    <option name="RECENTLY_FILTERED_USER_GROUPS">
-      <collection />
-    </option>
-    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-      <collection />
-    </option>
-  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="11" />
-    </breakpoint-manager>
-    <watches-manager>
-      <configuration name="NodeJSConfigurationType">
-        <watch expression="res" />
-        <watch expression="process" language="JavaScript" />
-        <watch expression="page" />
-        <watch expression="doc" language="JavaScript" />
-        <watch expression="doc.checked" language="JavaScript" />
-        <watch expression="err.message" language="JavaScript" />
-      </configuration>
-    </watches-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Default" />
+    <option name="LAST_COMMIT_MESSAGE" value="Default" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/views/OrderConfirm.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="161" column="26" selection-start-line="161" selection-start-column="26" selection-end-line="161" selection-end-column="26" />
-          <folding>
-            <element signature="n#header#0;n#div#0;n#template#0;n#!!top" />
-            <element signature="n#svg#0;n#div#0;n#template#0;n#!!top" />
-            <element signature="n#div#1;n#div#0;n#template#0;n#!!top" />
-            <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#template#0;n#!!top" />
-            <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#template#0;n#!!top" />
-            <element signature="n#div#2;n#div#0;n#div#1;n#div#0;n#template#0;n#!!top" />
-            <element signature="n#div#3;n#div#0;n#div#1;n#div#0;n#template#0;n#!!top" />
-            <element signature="n#footer#0;n#div#0;n#template#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/NavBread.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -631,17 +562,6 @@
     <entry file="file://$PROJECT_DIR$/static/loading-svg/loading-balls.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="30" lean-forward="true" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
-          <folding>
-            <element signature="e#140#161#0" expanded="true" />
-            <element signature="e#766#1008#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/NavBread.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -666,17 +586,35 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor />
+          <first_editor relative-caret-position="19">
+            <caret line="1" column="51" selection-start-line="1" selection-start-column="51" selection-end-line="1" selection-end-column="51" />
+          </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/views/GoodsList.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
+        <state relative-caret-position="386">
           <caret line="56" selection-start-line="56" selection-end-line="56" />
           <folding>
             <element signature="e#1706#1739#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3895" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+          <folding>
+            <element signature="e#140#161#0" expanded="true" />
+            <element signature="e#766#1008#0" />
           </folding>
         </state>
       </provider>
